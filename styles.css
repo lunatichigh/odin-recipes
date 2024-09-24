@@ -30,3 +30,28 @@ h1 {
 h2, h3 {
     font-size: 25px;
 }
+
+/* Box Styles */
+.description-box {
+    box-sizing: border-box;
+    padding: 100px;
+    margin: 100px;
+    background-color: blue;
+    border-radius: 100%;
+}
+
+.ingredient-box {
+    box-sizing: border-box;
+    padding: 100px;
+    margin: 100px;
+    background-color: red;
+    border-radius: 100%;
+}
+
+.steps-box {
+    box-sizing: border-box;
+    padding: 100px;
+    margin: 100px;
+    background-color: green;
+    border-radius: 100%;
+}
